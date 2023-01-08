@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Teaching myself how to program!
 -------------------------------
 
-I been learning how to code for 2 months now, I worked at NCR (Online Customer Support for German speaking countries (Germany, Switzerland and Austria) for 1 year. I always wanted to learn to write codes and programs, so here im.
+I have been learning how to code for 2 months now, I worked at NCR (Online Customer Support for German speaking countries (Germany, Switzerland and Austria) for 1 year. I always wanted to learn to write codes and programs, so here im.
 
 * 🌍  I'm based in Serbia, Belgrade
 * 🚀  I'm currently working on [Bot Nika](http://github.com/MikeyLevine/Bot-NIka)
