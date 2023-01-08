@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mikey Levine
 ====================================================================================================================================
 
-Teaching myself how yo program!
+Teaching myself how to program!
 -------------------------------
 
 I been learning how to code for 2 months now, I worked at NCR (Online Customer Support for German speaking countries (Germany, Switzerland and Austria) for 1 year. I always wanted to learn to write codes and programs, so here im.
