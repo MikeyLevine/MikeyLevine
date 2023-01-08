@@ -29,4 +29,4 @@ I been learning how to code for 2 months now, I worked at NCR (Online Customer S
                           
 <a href="https://www.github.com/MikeyLevine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
-<a href="https://www.twitch.tv/puxis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>### Badges
+<a href="https://www.twitch.tv/puxis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
