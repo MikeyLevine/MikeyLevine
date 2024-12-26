@@ -7,10 +7,10 @@ Teaching myself how to program!
 I have been learning how to code for 2 months now, I worked at NCR (Online Customer Support for German speaking countries (Germany, Switzerland and Austria for 1 year). I always wanted to learn to write codes and programs, so here i AM.
 
 * 🌍  I'm based in Serbia, Belgrade
-* 🚀  I'm currently working on [Bot Nika](http://github.com/MikeyLevine/Bot-NIka)
+* 🚀  I'm currently working on [Shouko-chan](https://github.com/MikeyLevine/Shouko-chan)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on New project or anything that will help me improve and learn new things
-* ⚡  I'm trying to stop smoking cigarettes!!!
+* ⚡  I'm trying to stop smoking cigarettes!!! (It's not going well)
 
 <a href="https://www.twitch.tv/puxis" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/puxis?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
