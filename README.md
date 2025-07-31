@@ -12,7 +12,7 @@ I have been learning how to code for 2 months now, I worked at NCR (Online Custo
 * 🤝  I'm open to collaborating on New project or anything that will help me improve and learn new things
 * ⚡  I'm trying to stop smoking cigarettes!!! (It's not going well)
 
-<a href="https://www.twitch.tv/puxis" target="_blank" rel="noreferrer"><img
+<a href="[https://www.twitch.tv/puxis](https://www.twitch.tv/jovee9)" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/puxis?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
